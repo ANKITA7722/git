@@ -1,0 +1,21 @@
+.navbar{position: sticky; top: 1px;
+ padding: 4px solid; background-color: white; }
+.navbar ul{
+    display: flex;
+    justify-content: space-around; text-align: center;
+    
+
+}
+.p1 {
+    display: flex;
+    justify-content: space-around; background-color: aqua; 
+}
+.p1 div p {background-color: white; 
+    padding: 50px;justify-content: space-around; height: 5px; margin: 6px;
+}
+.p2{background-image: url(1000_F_697445675_YmyIiNboi99inCvtWPZmBlwbuFCotmIK.jpg); height: 100vh;
+    background-repeat: no-repeat; background-size: contain; text-align: left; gap:top 20px; 
+}
+.A1{border: white SOLID; color: white; background-color: transparent;
+text-align: center;}
+.a1{text-align: center;}
